@@ -58,13 +58,12 @@ O projeto é ideal para iniciantes que desejam praticar conceitos fundamentais d
 
 💡Exibição de ASCII art personalizada ao final do jogo, indicando vitória ou derrota;
 
-# 🧪 Como Testar o Código:
 
 # ✅ Pré-requisitos:
 
 Você precisa de um compilador C instalado, como o GCC.
 
-# 🔧 Compilando o código:
+# 🔧 Como Testar o Código:
 
 1) Em primeiro lugar, utilize o comando "copy path" no arquivo adivinhacao.c, pressionando a parte direita de seu mouse.
    
